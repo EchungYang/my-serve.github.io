@@ -2,15 +2,21 @@
 
 ![Image of Learning](https://www.wiley.com/learn/jossey-bass/images/what-every-teacher-should-know-about-the-science-of-learning.jpg)
 
-## A bit background about me and this project
+## What is MY-SERVE
 
-Hi, my name is Yiqiong Yang, I am on my way through a tough Ph.D. journey at the University of Cambridge, major in Psychology and Education. I obtained a bachelor's degree in Psychology, and then I became specialised in educational psychology as I think learning how do we learn is fun.
+MY-SERVE is a study about understanding young people's experiences in accessing community mental health services. MY-SERVCE stands for Mental health in Youth: SERVice Experience. Since the start of the COVID-19 pandemic, research has shown that children and young people’s mental health has got worse and there has been a large increase in the number of children and young people being referred to mental health services (eg. GP counsellor, school counsellor, CAMHS). This study aims to understand young people’s experiences of mental health services through in-depth interviews. In particular, we’d like to understand why some groups of young people may not improve as much as others after accessing services. We’d like to speak to young people and their caregivers to find out what worked or didn’t work for them, so we can suggest ways to improve services.
 
-Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so naturally to us, but there are lots of steps involved that are worth taking a closer look at, such as how do we reason a simple math problem, making decisions in a multiple-choice and how do we aware of our judgment in different contexts.
 
-For me, I am in particular curious about how do we respond to tasks that subject to different rules. Do we use the same set of strategies to perform all tasks? Do we stay alert in boredness? So, if you are willing to help me answer these questions, this page has almost everything you need to know before continuing :)
+## Who are we looking for?
 
-## How does this project work?
+We would like to invite you if you have been seen by mental health services and are between the ages of 16 and 24, or, you are the caregiver of a young person who has been seen by mental health services and are between the ages of 16 and 24.
+
+## What will happen to me if I take part?
+
+We will arrange a day and time that’s suitable for you, and the interview can be either online or face-to-face at the university. The interview may be with your young person if that is what you both wish. If you are happy to go ahead with the interview, you will need to sign a consent form. 
+
+We will record our conversation so that we can remember everything we talked about. The recording will only be accessible by the research team and it will be destroyed at the end of the study. The interview will take about up to an hour. We will listen to everything you have to say, and be sensitive to how you are feeling. Our team have a lot of experience of doing interviews with young people and caregivers and we will do our best to reassure you and make you feel at ease. 
+
 
 This research project has three components: 
 
