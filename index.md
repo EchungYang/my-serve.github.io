@@ -1,12 +1,14 @@
-# Welcome to my research study about learning! 
+# MY-SERVCE Study Information Site 
 
-![Image of Learning](https://www.wiley.com/learn/jossey-bass/images/what-every-teacher-should-know-about-the-science-of-learning.jpg)
+![titlepic](https://i.postimg.cc/G3KF6DKy/temp-Image7-L4j-ID.avif)
 
 ## What is MY-SERVE
 
 MY-SERVE is a study about understanding young people's experiences in accessing community mental health services. MY-SERVCE stands for Mental health in Youth: SERVice Experience. Since the start of the COVID-19 pandemic, research has shown that children and young people’s mental health has got worse and there has been a large increase in the number of children and young people being referred to mental health services (eg. GP counsellor, school counsellor, Child and Adolescent Mental Health Services CAMHS). 
 
 This study aims to understand young people’s experiences of mental health services through in-depth interviews. In particular, we’d like to understand why some groups of young people may not improve as much as others after accessing services. We’d like to speak to young people and their caregivers to find out what worked or didn’t work for them, so we can suggest ways to improve services.
+
+![myservelogo](https://i.postimg.cc/tC1sDnMy/temp-Image-Uz-Hc1l.avif)
 
 
 ## We would like to invite you to take part if you  
@@ -43,7 +45,8 @@ The project has been reviewed by the University of Cambridge Psychology Research
 ## How will my data be lawfully processed?
 The University of Cambridge is the sponsor for this study and will be the data controller. The lawful basis for carrying out this study under GDPR is Task in the Public Interest, (Article 6,1e) as research is cited as part of the University’s duties. This relates to how the information that you share with us is protected. More information about how the University of Cambridge will use your information can be found at: https://www.information-compliance.admin.cam.ac.uk/data-protection/research-participant-data.
 
-![Image of Exp process](https://postimg.cc/3dXmZdx9)
+## How to participate the study?
+We would like to ask you to complete an [expression of interest form](https://forms.gle/1hjVRYuXa52Ls5UK8), wihch can help us determine your suitability for the study.
 
 
 ## Contact for further information.
@@ -52,9 +55,6 @@ You can reach our research team member below if you have any concerns or queries
 * Project coordinator: Yiqiong YANG/Miriam (yy425@cam.ac.uk)
 * Project PI: Dr Sharon Neufeld (sasn2@medschl.cam.ac.uk)
 
-
-Department of Psychiatry
-University of Cambridge
 
 
 ![Image of Psychiatry Department](https://i.postimg.cc/MTPPBr4H/temp-Imagej-XTRPS.avif)
