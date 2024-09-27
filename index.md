@@ -1,4 +1,4 @@
-# MY-SERVCE Study Information Site 
+# MY-SERVCE Study Information 
 
 ![titlepic](https://i.postimg.cc/G3KF6DKy/temp-Image7-L4j-ID.avif)
 
