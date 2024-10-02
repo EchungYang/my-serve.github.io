@@ -1,4 +1,4 @@
-# MY-SERVCE Study Information 
+# MY-SERVE Study Information 
 
 ![titlepic](https://i.postimg.cc/xTgLLd8m/temp-Image-GX08-Jq.avif)
 Picture downloaded from https://www.oecd.org/en/topics/sub-issues/students-well-being.html
