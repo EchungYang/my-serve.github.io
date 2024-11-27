@@ -7,7 +7,7 @@ Picture downloaded from https://www.oecd.org/en/topics/sub-issues/students-well-
 
 MY-SERVE is a study about understanding young people's experiences in accessing community mental health services. MY-SERVCE stands for Mental health in Youth: SERVice Effectiveness. Since the start of the COVID-19 pandemic, research has shown that children and young people’s mental health has got worse and there has been a large increase in the number of children and young people being referred to mental health services (eg. GP counsellor, school counsellor, Child and Adolescent Mental Health Services CAMHS). 
 
-This study aims to understand young people’s experiences of mental health services through in-depth interviews. In particular, we’d like to understand why some groups of young people may not improve as much as others after accessing services. We’d like to speak to young people and their caregivers to find out what worked or didn’t work for them, so we can suggest ways to improve services.
+This study aims to understand young people’s experiences of mental health services through in-depth interviews, which has been approved by the Cambridge Psychology Research Ethics Committee (PRE.2024.035). In particular, we’d like to understand why some groups of young people may not improve as much as others after accessing services. We’d like to speak to young people and their caregivers to find out what worked or didn’t work for them, so we can suggest ways to improve services.
 
 ![myservelogo](https://www.imghippo.com/i/sfY4559Kv.png)
 
