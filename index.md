@@ -5,11 +5,11 @@ Picture downloaded from https://www.oecd.org/en/topics/sub-issues/students-well-
 
 ## What is MY-SERVE
 
-MY-SERVE is a study about understanding young people's experiences in accessing community mental health services. MY-SERVCE stands for Mental health in Youth: SERVice Experience. Since the start of the COVID-19 pandemic, research has shown that children and young people’s mental health has got worse and there has been a large increase in the number of children and young people being referred to mental health services (eg. GP counsellor, school counsellor, Child and Adolescent Mental Health Services CAMHS). 
+MY-SERVE is a study about understanding young people's experiences in accessing community mental health services. MY-SERVCE stands for Mental health in Youth: SERVice Effectiveness. Since the start of the COVID-19 pandemic, research has shown that children and young people’s mental health has got worse and there has been a large increase in the number of children and young people being referred to mental health services (eg. GP counsellor, school counsellor, Child and Adolescent Mental Health Services CAMHS). 
 
 This study aims to understand young people’s experiences of mental health services through in-depth interviews. In particular, we’d like to understand why some groups of young people may not improve as much as others after accessing services. We’d like to speak to young people and their caregivers to find out what worked or didn’t work for them, so we can suggest ways to improve services.
 
-![myservelogo](https://i.postimg.cc/59z0CWYN/temp-Image-Ih2z-P6.avif)
+![myservelogo](https://www.imghippo.com/i/sfY4559Kv.png)
 
 
 ## We would like to invite you to take part if you  
@@ -38,7 +38,7 @@ While some people do find it helpful to talk about their experiences, you may fi
 We can give you a £20 in Amazon voucher as a thank you for taking part in an interview. 
 
 ## Who is organising and funding the research?
-The research is funded by Wellcome (226392/Z/22/Z)
+The research is funded by Wellcome (226392/Z/22/Z). 
 
 ## Ethical review of the study
 The project has been reviewed by the University of Cambridge Psychology Research Ethics Committee.
@@ -47,7 +47,7 @@ The project has been reviewed by the University of Cambridge Psychology Research
 The University of Cambridge is the sponsor for this study and will be the data controller. The lawful basis for carrying out this study under GDPR is Task in the Public Interest, (Article 6,1e) as research is cited as part of the University’s duties. This relates to how the information that you share with us is protected. More information about how the University of Cambridge will use your information can be found at: https://www.information-compliance.admin.cam.ac.uk/data-protection/research-participant-data.
 
 ## How to participate the study?
-We would like to ask you to complete an [expression of interest form](https://forms.gle/1hjVRYuXa52Ls5UK8), wihch can help us determine your suitability for the study.
+We would like to ask you to complete an [expression of interest form](https://forms.gle/GKLCCVofFHPaHBsJA), wihch can help us determine your suitability for the study.
 
 
 ## Contact for further information.
