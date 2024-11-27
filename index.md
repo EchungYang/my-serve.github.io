@@ -47,7 +47,7 @@ The project has been reviewed by the University of Cambridge Psychology Research
 The University of Cambridge is the sponsor for this study and will be the data controller. The lawful basis for carrying out this study under GDPR is Task in the Public Interest, (Article 6,1e) as research is cited as part of the University’s duties. This relates to how the information that you share with us is protected. More information about how the University of Cambridge will use your information can be found at: https://www.information-compliance.admin.cam.ac.uk/data-protection/research-participant-data.
 
 ## How to participate the study?
-We would like to ask you to complete an [expression of interest form](https://forms.gle/GKLCCVofFHPaHBsJA), wihch can help us determine your suitability for the study.
+We would like to ask you to complete an [expression of interest form](https://forms.gle/GKLCCVofFHPaHBsJA), and we will contact you shortly.
 
 
 ## Contact for further information.
