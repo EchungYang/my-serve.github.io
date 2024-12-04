@@ -1,7 +1,7 @@
 # MY-SERVE Study Information 
 
 ![titlepic](https://i.postimg.cc/xTgLLd8m/temp-Image-GX08-Jq.avif)
-<sub>Picture downloaded from https://www.oecd.org/en/topics/sub-issues/students-well-being.html<sub>
+<sub>Picture downloaded from https://www.oecd.org/en/topics/sub-issues/students-well-being.html</sub>
 
 # What is MY-SERVE?
 
