@@ -56,7 +56,7 @@ We would like to ask you to complete an [expression of interest form](https://fo
 # Contact for further information.
 You can reach our research team member below if you have any concerns or queries regarding this study:
 
-* Project coordinator: Yiqiong YANG/Miriam (yy425@cam.ac.uk)
+* Project coordinator: Yiqiong Yang/Miriam (yy425@cam.ac.uk)
 * Project Principal Investigator : Dr Sharon Neufeld (sasn2@medschl.cam.ac.uk)
 
 
